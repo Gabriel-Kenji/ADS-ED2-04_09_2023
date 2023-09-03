@@ -1,0 +1,11 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-04_09_2023\ADS-ED2-04_09_2023\ADS-ED2-04_09_2023\bin\Debug\ADS_ED2_04_09_2023.exe.config
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-04_09_2023\ADS-ED2-04_09_2023\ADS-ED2-04_09_2023\bin\Debug\ADS_ED2_04_09_2023.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-04_09_2023\ADS-ED2-04_09_2023\ADS-ED2-04_09_2023\bin\Debug\ADS_ED2_04_09_2023.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-04_09_2023\ADS-ED2-04_09_2023\ADS-ED2-04_09_2023\obj\Debug\ADS-ED2-04_09_2023.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-04_09_2023\ADS-ED2-04_09_2023\ADS-ED2-04_09_2023\obj\Debug\ADS-ED2-04_09_2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-04_09_2023\ADS-ED2-04_09_2023\ADS-ED2-04_09_2023\obj\Debug\ADS_ED2_04_09_2023.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-04_09_2023\ADS-ED2-04_09_2023\ADS-ED2-04_09_2023\obj\Debug\ADS-ED2-04_09_2023.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-04_09_2023\ADS-ED2-04_09_2023\ADS-ED2-04_09_2023\obj\Debug\ADS-ED2-04_09_2023.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-04_09_2023\ADS-ED2-04_09_2023\ADS-ED2-04_09_2023\obj\Debug\ADS_ED2_04_09_2023.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-04_09_2023\ADS-ED2-04_09_2023\ADS-ED2-04_09_2023\obj\Debug\ADS_ED2_04_09_2023.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\IFSP\C#\ADS-ED2-04_09_2023\ADS-ED2-04_09_2023\ADS-ED2-04_09_2023\obj\Debug\ADS_ED2_04_09_2023.Form1.resources
